@@ -1,0 +1,14 @@
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\bin\Debug\net9.0\Ejercicio2.exe
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\bin\Debug\net9.0\Ejercicio2.deps.json
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\bin\Debug\net9.0\Ejercicio2.runtimeconfig.json
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\bin\Debug\net9.0\Ejercicio2.dll
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\bin\Debug\net9.0\Ejercicio2.pdb
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfoInputs.cache
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.AssemblyInfo.cs
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.csproj.CoreCompileInputs.cache
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.dll
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\refint\Ejercicio2.dll
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.pdb
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\Ejercicio2.genruntimeconfig.cache
+\\citrixda0\datos\usuarios\campusc\campusc02\Escritorio\Ejercicio2\obj\Debug\net9.0\ref\Ejercicio2.dll
